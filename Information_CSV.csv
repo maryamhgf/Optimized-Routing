@@ -1,0 +1,22 @@
+place_index,place_name,latitude,longitude,neighbors_indice,neighbors_weight
+1,Resalat Highway and Damavand,35.724977,51.537903,3,1
+2,Shahed Blvd and Parvin street,35.728988,51.534942,"3,1","1,2"
+3,Shahed and Damavand ,35.724855,51.534404,"1, 2,5","1,1,2"
+4,First Square,35.726581,51.524897,"2, 5, 6, 7","2,1,2,3"
+5,Tirandaz and Damavand,35.72416,51.523897,"3, 4, 8","2,1,4"
+6,Amiri Taem and Bagheri Exp,35.7277,51.513615,"4, 10, 9, 8","2,1,2,2"
+7,Resalat and Hojr abn oday,35.73135,51.527638,4,1
+8,Damavand and Bagheri,35.718626,51.502433,"5,  14","5,3"
+9,Shaghayegh square,35.719362,51.501761,"8, 13, 10","1,2,4"
+10,Resalat and Bagheri,35.732643,51.517792,"7, 11, 12, 9, 8","1,4,6,5,5"
+11,Dr Ayat and Resalat,35.735644,51.494804,12,2
+12,Nabovat,35.72897,51.493637,"11, 19, 13","3,1,3"
+13,Dr aAyat-Sany,35.720455,51.491624,"9, 14, 12, 11, 19","1,2,3,2,4"
+14,Dr Ayat-Damavand,35.71494,51.490493,"8, 13, 15","2,1,1"
+15,Golshandoust-Damavand,35.713051,51.484702,"14, 21, 13, 16","1,2,3,2"
+16,Damavand-S Sabalan,35.709079,51.472151,"15, 17","3,3"
+17,N sabalan-Emam ali Hwy,35.719512,51.463717,"16, 21, 18, 19","3,3,3,4 "
+18,Sabalan square,35.729881,51.458828,"20, 17, 11","2,2,6  "
+19,Helal ahmar square,35.731214,51.48572,"12, 13, 11, 20, 21","1,3,2,2,3"
+20,W Golbarg-Masil bakhtar,35.730715,51.464348,"18, 19, 21, 17, 11","1,2,2,4,6"
+21,Sani-Golshandoust,35.72237,51.47368,"15, 13, 19, 11, 17, 20, 16","2,2,2,5, 4,2,4"
