@@ -3,8 +3,6 @@ import numpy as np
 import csv
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
-import numpy as np
-import matplotlib.pyplot as plt
 from scipy.optimize import linprog
 from ortools.linear_solver import pywraplp
 from skimage import draw
